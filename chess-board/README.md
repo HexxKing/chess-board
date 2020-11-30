@@ -1,1 +1,1 @@
-# [PR Submission Link]()
+# [PR Submission Link](https://github.com/HexxKing/chess-board/pull/1)
